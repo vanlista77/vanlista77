@@ -2,9 +2,9 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me email
-- 😄 Pronouns:He, Him
-- ⚡ Fun fact:I'm also a chopper pilot
+- 📫 Reach me by email mike.evangelista77@outlook.com
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact: I'm also a chopper pilot
 
 <!---
 vanlista77/vanlista77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
